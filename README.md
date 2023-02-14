@@ -1,4 +1,7 @@
 # Steganography Project
+<p align="center">
+  <img src="Steganography.png" width="500" height="500">
+</p>
 
 Steganography is the art of hiding data in plain sight. This Python project aims to hide a message within an image using techniques that ensure that the image remains intact. The objective of this project is to embed the message within the image and then decode it.
 
@@ -24,15 +27,15 @@ The project uses LSB based image steganography to embed the secret message into 
 
 ## Screenshot
 <p align="center">
-  <img src="Screenshot (634).png">
+  <img src="Screenshot (634).png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="Screenshot (635).png">
+  <img src="Screenshot (635).png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="Screenshot (636).png">
+  <img src="Screenshot (636).png" width="500" height="500">
 </p>
 
 ## Conclusion
