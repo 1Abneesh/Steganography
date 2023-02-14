@@ -24,15 +24,15 @@ The project uses LSB based image steganography to embed the secret message into 
 
 ## Screenshot
 <p align="center">
-  <img src="1.png">
+  <img src="Screenshot (634).png">
 </p>
 
 <p align="center">
-  <img src="2.png">
+  <img src="Screenshot (635).png">
 </p>
 
 <p align="center">
-  <img src="3.png">
+  <img src="Screenshot (636).png">
 </p>
 
 ## Conclusion
